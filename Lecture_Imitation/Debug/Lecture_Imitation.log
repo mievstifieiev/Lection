@@ -1,0 +1,9 @@
+﻿  Lecture_Imitation.cpp
+C:\Users\PS\source\repos\Lecture_Imitation\Lecture_Imitation\Teacher.h(10,20): error C2061: синтаксическая ошибка: идентификатор "Room"
+C:\Users\PS\source\repos\Lecture_Imitation\Lecture_Imitation\Lecture_Imitation.cpp(37,26): error C2660: Teacher::Speak: функция не принимает 1 аргументов
+C:\Users\PS\source\repos\Lecture_Imitation\Lecture_Imitation\Teacher.h(10,10): message : см. объявление "Teacher::Speak"
+  Room.cpp
+C:\Users\PS\source\repos\Lecture_Imitation\Lecture_Imitation\Teacher.h(10,20): error C2061: синтаксическая ошибка: идентификатор "Room"
+  Student.cpp
+  Teacher.cpp
+  Создание кода...
